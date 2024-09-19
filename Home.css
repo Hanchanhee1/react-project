@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background: #EAEAEA;
+    padding: 18px 12px;
+  }
+  header h1 {
+    color: black;
+    text-align: center;
+  }
+  nav {
+    background: #0cf;
+    padding: 12px 18px;
+    text-align: right;
+  }
+  nav a {
+    color: white;
+    padding: 12px 18px;
+    text-decoration: none;
+  }
+  section {
+    height: 400px;
+  }
+  section h2 {
+    text-align: center;
+    padding: 18px 0;
+  }
+  section p {
+    padding: 8px 0;
+  }
+  footer {
+    background: #EAEAEA;
+    padding: 12px 18px;
+  }
+  footer p {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+  }
